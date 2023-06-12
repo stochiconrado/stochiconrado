@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Conrado Stochi 🖖
 
-- 🌱 Estou estudando atualmente UX-UI e Redes de computadores
+- 🚀 Sou apaixonado por Front-end
+- 🌱 Estou estudando atualmente UX-UI e redes para internet
+- 🕸 Estou lendo atualmente O homem mais rico da Babilônia.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
