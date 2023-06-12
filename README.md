@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Conrado Stochi 🖖
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estou estudando atualmente shellscript
+- 🌱 Estou estudando atualmente UX-UI e Redes de computadores
 - 😄 Pronomes: ele/dele
 
 <div align="center">
