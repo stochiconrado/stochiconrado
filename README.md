@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Conrado Stochi 🖖
 
-- 🚀 Sou apaixonado por Front-end
-- 🌱 Estou estudando atualmente UX-UI e redes para internet
-- 🕸 Estou lendo atualmente O homem mais rico da Babilônia.
+- 🤟 Sou apaixonado por Front-end | UX\UI Design | Fotografia 📷 
+- 👨‍🎓 Me dedicando aos estudos de Front-end, UX/UI Design 
+- 📚 Estou lendo Não me faça pensar do Steve Krug && O design do dia-a-dia do Donald A. Norman.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/stochiconrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stochiconrado&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stochiconrado&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stochiconrado&layout=pie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stochiconrado&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -24,8 +24,6 @@
     <a href= "mailto:conradostochi@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
     <a href= "mailto:stochiconrado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/stochiconrado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://bolha.us/@conradostochi" target="_blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/:id" target="_blank"></a>
-
   </div>
   
   ![Snake animation](https://github.com/stochiconrado/stochiconrado/blob/output/github-contribution-grid-snake.svg)
