@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Conrado Stochi 🖖
 
-- 🤟 Sou apaixonado por Front-end | UX\UI Design | Fotografia 📷 
+- 🤟 Sou apaixonado por Front-end e fotografando por hobbie 📷 
 - 👨‍🎓 Me dedicando aos estudos de Front-end, UX/UI Design 
 - 📚 Estou lendo Não me faça pensar do Steve Krug && O design do dia-a-dia do Donald A. Norman.
 - 😄 Pronomes: ele/dele
