@@ -2,7 +2,7 @@
 
 - 🤟 Sou apaixonado por Front-end e fotografando por hobbie 📷 
 - 👨‍🎓 Me dedicando aos estudos de Front-end, UX/UI Design 
-- 📚 Estou lendo Não me faça pensar do Steve Krug && A sutil arte de ligar o foda-se do Mark Manson
+- 📚 Estou lendo: Krug, Steve. Não me faça pensar
 - 😄 Pronomes: ele/dele || he/him
 
 <div align="center">
@@ -12,10 +12,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
   
   ##
