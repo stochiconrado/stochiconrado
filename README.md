@@ -1,14 +1,13 @@
 # Olá! Eu sou o Conrado Stochi 🖖
 
 - 🤟 Sou apaixonado por Front-end e fotografando por hobbie 📷 
-- 👨‍🎓 Me dedicando aos estudos de Front-end, UX/UI Design 
+- 👨‍🎓 Me dedicando aos estudos de Front-end 
 - 📚 Estou lendo: Krug, Steve. Não me faça pensar
-- 😄 Pronomes: ele/dele || he/him
 
 <div align="center">
   <a href="https://github.com/stochiconrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stochiconrado&layout=pie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stochiconrado&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stochiconrado&layout=pie&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stochiconrado&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
