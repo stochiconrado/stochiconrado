@@ -2,7 +2,7 @@
 
 - 🤟 Sou apaixonado por Front-end e fotografando por hobbie 📷 
 - 👨‍🎓 Me dedicando aos estudos de Front-end e aprendendo a Língua brasileira de sinais (Libras)
-- 📚 Estou lendo: Norman, Donald A. O design do dia a dia.
+- 📚 Estou lendo: Norman, Donald A. "O design do dia a dia". Greene, Robert "As 48 leis do Poder".
 
 <div align="center">
   <a href="https://github.com/stochiconrado">
