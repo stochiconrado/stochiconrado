@@ -1,7 +1,7 @@
 # Olá! Eu sou o Conrado Stochi 🖖
 
-- 🤟 Sou apaixonado por Front-end e fotografando por hobbie 📷 
-- 👨‍🎓 Me dedicando aos estudos de Front-end e aprendendo a Língua brasileira de sinais (Libras)
+- 🤟 Sou apaixonado por Front-end enquanto faõ sucos, lanches naturais e salasdas.
+- 👨‍🎓 Atualmente me dedico a estudar conceitos e praticar até se tornarem rotineiros.
 - 📚 Estou lendo: Norman, Donald A. "O design do dia a dia". Greene, Robert "As 48 leis do Poder".
 
 <div align="center">
